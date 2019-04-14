@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<title>地球牌空气说明书</title>
+	<meta charset="UTF-8">
+<style type="text/css">
+
+	body{margin: 5%;background: url(./images/hai.jpg);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;}
+	@keyframes myfirst
+	 {
+		0% {opacity: 0}
+		25%{opacity: 0}
+		50% {opacity: 0}
+		87.5%{opacity: 100}
+		100% {opacity: 0}
+	 }
+	@keyframes mysecond
+	{
+		0% {opacity: 0}
+		50% {opacity: 0}
+		93.75% {opacity: 100}
+		100% {opacity: 0}
+	}
+
+	p{
+		font-size: 30px;
+		width: 100%;
+		position: absolute;
+		text-align: 100%;
+	}
+	#mang{
+		animation:myfirst 20s infinite;
+	}
+	#jue{
+		animation:mysecond 30s infinite;
+	}
+</style>
+</head>
+<body>
+<audio src="wav/别话.mp3" controls="controls" autoplay="autoplay">
+</audio>
+	<h1>别话</h1>
+	<p id="mang">说再见茫然话再见</p>
+	<p id="jue">但觉心路极迷乱</p>
+
+</body>
+</html>
