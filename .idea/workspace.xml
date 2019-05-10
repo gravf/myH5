@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fae2ed89-4810-428c-b582-f323e6ea4588" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/001Basics/css/page.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="60" column="19" lean-forward="true" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+            <state relative-caret-position="245">
+              <caret line="62" column="19" lean-forward="true" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -184,7 +184,7 @@
       <workItem from="1557217878728" duration="939000" />
       <workItem from="1557222392813" duration="11000" />
       <workItem from="1557281987304" duration="774000" />
-      <workItem from="1557475559839" duration="717000" />
+      <workItem from="1557475559839" duration="875000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1555056691495</created>
@@ -291,11 +291,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557475989886</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="111">
+      <created>1557476386925</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1557476386925</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16620000" />
+    <option name="totallyTimeSpent" value="16778000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,7 +316,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16050199" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16050199" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -323,7 +330,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295583" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.22536807" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.20963173" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.20963173" />
       <window_info anchor="bottom" id="调试" order="12" weight="0.3286119" />
       <window_info anchor="bottom" id="找到" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -409,8 +416,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/001Basics/css/page.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="60" column="19" lean-forward="true" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+        <state relative-caret-position="245">
+          <caret line="62" column="19" lean-forward="true" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
         </state>
       </provider>
     </entry>
